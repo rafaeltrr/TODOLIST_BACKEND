@@ -1,0 +1,3 @@
+1º npx sequelize-cli db:migrate
+2º yarn dev ou npm run dev
+3° ng serve --open
